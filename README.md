@@ -1,6 +1,5 @@
 # Dependencies
-
-You will need to specify Eigen/ include dir in the Makefile.
+- GetPot for arg parsing
 
 
 # Usage 
